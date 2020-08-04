@@ -74,36 +74,14 @@ The course is made up of seven sessions covering:
 * Data retention
 * Practical on data ingestion
 
-### Session 4 Reproducible computational analyses
-
-* Brief overview of ChIP-seq protocol and analysis
-* Introduction to snakemake and conda
-* Installation of conda and snakemake in a Linux Virtual Box
-* Create snakemake workflow for ChIP-seq analysis:
-  * Mapping
-  * Peak Calling
-  * Generate bigWig files for visualisation
-  * Summary rule
-* Inspect workflow results
-* Exercises and discussion
-
-### Session 5 Exploratory analyses, reproducible manuscripts
-* Data and project organization for analysis
-* Literate programming 
-* Writing manuscripts using RMarkdown
-  * Introduction
-  * Worked example from Chip-Seq
-  * Lessons learned
-
-
-### Session 6 FAIR data principles
+### Session 4 FAIR data principles
 
 * Understanding FAIR principles
 * Incentives for FAIR data
 * Achieving FAIR'ness, possible paths
 * Group discussions
 
-### Session 7 Data publishing and archival
+### Session 5 Data publishing and archival
 
 * Recalling FAIR principles in publishing data and results
 * Introduction to FAIRDOMhub as a resource for FAIR data and results publishing
