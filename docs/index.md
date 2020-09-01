@@ -16,3 +16,7 @@ The course is made up of seven sessions covering:
 * Olivier Sand, CNRS, IFB (ELIXIR-FR)
 * Pinar Alper, ELIXIR-LU
 * Roland Krause, ELIXIR-LU
+
+## Instructors
+
+* Pinar Alper, Roland Krause, 
