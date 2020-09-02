@@ -20,3 +20,6 @@ The course is made up of seven sessions covering:
 ## Instructors
 
 * Pinar Alper, Roland Krause, 
+
+## Programme
+[Preliminary Programme](Programme.md)
