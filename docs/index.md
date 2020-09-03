@@ -23,3 +23,6 @@ The course is made up of seven sessions covering:
 
 ## Programme
 [Preliminary Programme](Programme.md)
+
+## Registration
+[Registration is free but compulsory](Registration.md)
