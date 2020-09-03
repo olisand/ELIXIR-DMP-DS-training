@@ -62,7 +62,7 @@ The course is made up of seven sessions covering:
   * record keeping/accountability,
 * Practical with the Data Information System (DAISY)
 
-### Session 3 Practicalities of data handling
+### Session 3 Practicalities of data handling and Reproducible computational analyses
 
 * Research data transfer
 * Optimal file naming and organization
@@ -73,16 +73,14 @@ The course is made up of seven sessions covering:
   * Read-only permission
 * Data retention
 * Practical on data ingestion
+* How to create snakemake workflow for ChIP-seq analysis
 
-### Session 4 FAIR data principles
+### Session 4 FAIR data principles and Data publishing and archival
 
 * Understanding FAIR principles
 * Incentives for FAIR data
 * Achieving FAIR'ness, possible paths
 * Group discussions
-
-### Session 5 Data publishing and archival
-
 * Recalling FAIR principles in publishing data and results
 * Introduction to FAIRDOMhub as a resource for FAIR data and results publishing
 * Practical using FAIRDOMHub for FAIR data and results publishing
