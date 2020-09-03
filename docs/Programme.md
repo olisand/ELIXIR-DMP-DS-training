@@ -7,25 +7,51 @@ In addition to lectures, this training includes several hands-on practicals, all
 
 Due to COVID-19 and travel restriction, ELIXIR-FR and ELIXIR-LU are deciding to deliver this course online.
 
-
 The course will be held over for four consecutive mornings. Course are 9:00-12:30 CET from 5th to 8th Octobre, 2020
 
-## Day 1, 5th Octobre 2020
+## Course Programme
 
-9h00 Accueil
+### DAY 1 Data management planning
 
+* Data Management planning as an intervention
+* Research data lifecycle
+* Areas of consideration in data management planning
+* Data management planning tools
+* Practical with the Data Stewardship Wizard (DSW)
 
-## Day 2, 6th Octobre 2020
+### DAY 2 Data protection in research
 
-9h00 Accueil
+* Brief overview of the GDPR
+* Impact of the GDPR on bio-medical research, ethical and legal requirements
+* Organisational and technical measures for data protection:
+  * policies, training, data protection impact assessments,
+  * data classification, encryption, pseudonymisation,
+  * record keeping/accountability,
+* Practical with the Data Information System (DAISY)
 
-## Day 3, 7th Octobre 2020
+### DAY 3 Practicalities of data handling and Reproducible computational analyses
 
-9h00 Accueil
+* Research data transfer
+* Optimal file naming and organization
+* Management of data integrity
+  * README files
+  * Checksums
+  * Encryption
+  * Read-only permission
+* Data retention
+* Practical on data ingestion
+* How to create snakemake workflow for ChIP-seq analysis
 
-## Day 4, 8th Octobre 2020
+### DAY 4 FAIR data principles and Data publishing and archival
 
-9h00 Accueil
+* Understanding FAIR principles
+* Incentives for FAIR data
+* Achieving FAIR'ness, possible paths
+* Group discussions
+* Recalling FAIR principles in publishing data and results
+* Introduction to FAIRDOMhub as a resource for FAIR data and results publishing
+* Practical using FAIRDOMHub for FAIR data and results publishing
+
 
 **Teaching Objectives:**
 
