@@ -11,7 +11,7 @@ The course will be held over for four consecutive mornings. Course are 9:00-12:3
 
 ## Course Programme
 
-### Session 1  Data management planning
+### Session 1:  Data management planning
 
 * Data Management planning as an intervention
 * Research data lifecycle
@@ -19,7 +19,7 @@ The course will be held over for four consecutive mornings. Course are 9:00-12:3
 * Data management planning tools
 * Practical with the Data Stewardship Wizard (DSW)
 
-### Session 2  Data protection in research
+### Session 2:  Data protection in research
 
 * Brief overview of the GDPR
 * Impact of the GDPR on bio-medical research, ethical and legal requirements
@@ -29,7 +29,7 @@ The course will be held over for four consecutive mornings. Course are 9:00-12:3
   * record keeping/accountability,
 * Practical with the Data Information System (DAISY)
 
-### Session 3  Practicalities of data handling and Reproducible computational analyses
+### Session 3:  Practicalities of data handling and Reproducible computational analyses
 
 * Research data transfer
 * Optimal file naming and organization
@@ -42,7 +42,7 @@ The course will be held over for four consecutive mornings. Course are 9:00-12:3
 * Practical on data ingestion
 * How to create snakemake workflow for ChIP-seq analysis
 
-### Session 4  FAIR data principles and Data publishing and archival
+### Session 4:  FAIR data principles and Data publishing and archival
 
 * Understanding FAIR principles
 * Incentives for FAIR data
@@ -51,6 +51,7 @@ The course will be held over for four consecutive mornings. Course are 9:00-12:3
 * Recalling FAIR principles in publishing data and results
 * Introduction to FAIRDOMhub as a resource for FAIR data and results publishing
 * Practical using FAIRDOMHub for FAIR data and results publishing
+
 
 
 **Teaching Objectives:**
