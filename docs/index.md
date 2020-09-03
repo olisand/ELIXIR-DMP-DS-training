@@ -1,6 +1,7 @@
 # Best practices in research data management and stewardship
 
-The course is made up of seven sessions covering:
+ELIXIR-FR and ELIXIR-LU are pleased to announce : "Best practices in research data management and stewardship".
+* The course is made up of seven sessions covering:
 
 * Data management planning
 * Data protection in research, requirements and responsibilities originating from GDPR
@@ -19,7 +20,7 @@ The course is made up of seven sessions covering:
 
 ## Instructors
 
-* Pinar Alper, Roland Krause, 
+* Pinar Alper, Roland Krause, Alexey Kolodkin and Olga Krebs
 
 ## Programme
 [Preliminary Programme](Programme.md)
